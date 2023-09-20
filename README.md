@@ -6,10 +6,11 @@ Using this repo, create a laravel application that showcase the guidelines below
 
 ### Guidelines
 - To be created thru laravel
-- Must be api driven (Optional)wit
+- Must be api driven
 - Should have validations
 - Should have single photo upload per recipe
-- Use of front end framework is a plus (vue/angular/react)
+- Use of front-end frameworks JS and CSS (Vue/Angular/React/bootstrap/tailwind)
+- Design a responsive container in CSS to ensure content is presented effectively across various screen sizes.
 
 > You can use the image below for reference
 
