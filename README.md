@@ -6,6 +6,7 @@ Using this repo, create a laravel application that showcase the guidelines below
 
 ### Guidelines
 - To be created thru laravel
+- Must use either vuejs, react or angular (VueJS preferred)
 - Must be api driven
 - Should have validations
 - Should have single photo upload per recipe
